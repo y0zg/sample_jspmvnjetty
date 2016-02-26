@@ -14,7 +14,7 @@ public class CalculatorTest extends TestCase {
         /*comment*/
 
     }
-    public void testBad() throws Exception {
-        Assert.fail("Some bad test has failed");
+    public void testGood() throws Exception {
+        Assert.assertTrue("This test should not fail", true);
     }
 }

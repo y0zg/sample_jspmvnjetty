@@ -6,5 +6,5 @@
     int multiply=calculator.multiply(2,3);
     out.println("2 x 3="+ multiply);
     out.println("<br>");
-    out.println("check this commit#2");
+    out.println("Comment");
 %>

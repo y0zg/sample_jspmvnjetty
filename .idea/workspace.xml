@@ -46,10 +46,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5617f55-f47f-4a6b-9a30-c5a3eb830104" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/packtpub/Calculator.class" afterPath="$PROJECT_DIR$/target/classes/com/packtpub/Calculator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/packtpub/CalculatorTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/packtpub/CalculatorTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/jsp/org/apache/jsp/index_jsp.class" afterPath="$PROJECT_DIR$/target/work/jsp/org/apache/jsp/index_jsp.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/packtpub/Calculator.java" afterPath="$PROJECT_DIR$/src/main/java/com/packtpub/Calculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/packtpub/CalculatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/packtpub/CalculatorTest.java" />
     </list>
     <ignored path="sample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -99,8 +100,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4456929">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.5093633">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -838,7 +839,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456665027791</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="multiply">
+      <created>1456665409344</created>
+      <option name="number" value="00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1456665409344</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1107,8 +1114,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4456929">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.5093633">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
       </provider>

@@ -15,6 +15,11 @@ public class CalculatorTest extends TestCase {
 
     }
     public void testGood() throws Exception {
-        Assert.assertTrue("This test should not fail. See you", true);
+        Assert.assertTrue("This test should not fail", true);
+    }
+    public void testMultiply() throws Exception {
+        Calculator calculator = new Calculator();
+        int product = calculator.multiply(2, 3);
+        Assert.assertEquals(6, product);
     }
 }

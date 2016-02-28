@@ -14,9 +14,7 @@ public class CalculatorTest extends TestCase {
         /*comment*/
 
     }
-    public void testGood() throws Exception {
-        Assert.assertTrue("This test should not fail", true);
-    }
+
     public void testMultiply() throws Exception {
         Calculator calculator = new Calculator();
         int product = calculator.multiply(2, 3);

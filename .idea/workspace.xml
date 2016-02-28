@@ -45,10 +45,8 @@
     </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5617f55-f47f-4a6b-9a30-c5a3eb830104" name="Default" comment="multiply">
+    <list default="true" id="b5617f55-f47f-4a6b-9a30-c5a3eb830104" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/packtpub/Calculator.java" afterPath="$PROJECT_DIR$/src/main/java/com/packtpub/Calculator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/packtpub/CalculatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/packtpub/CalculatorTest.java" />
     </list>
     <ignored path="sample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -813,7 +811,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456663830635</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="multiply">
+      <created>1456664292406</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1456664292406</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">

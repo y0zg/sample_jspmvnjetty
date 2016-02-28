@@ -3,7 +3,7 @@ package com.packtpub;
 import junit.framework.Assert;
 import junit.framework.TestCase;
 /**
- * Created by webstddesign on 21.02.2016.
+ * Created by webstddesign on 23.02.2016.
  */
 public class CalculatorTest extends TestCase {
 
@@ -17,7 +17,7 @@ public class CalculatorTest extends TestCase {
 
     public void testMultiply() throws Exception {
         Calculator calculator = new Calculator();
-        int product = calculator.multiply(2, 3);
-        Assert.assertEquals(6, product);
+        int product = calculator.multiply(4, 3);
+        Assert.assertEquals(12, product);
     }
 }

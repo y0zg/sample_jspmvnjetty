@@ -4,6 +4,6 @@
     out.println("1 + 5 = " + sum);
     out.println("<br>");
     int multiply=calculator.multiply(2,3);
-    out.println("2 x 3="+ multiply);
+    out.println("4 x 3="+ multiply);
     out.println("<br>");
 %>
